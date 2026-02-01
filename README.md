@@ -32,3 +32,12 @@ public class DeveloperProfile {
         "Git"
     };
 }
+Currently, I am working with Spring Framework and Spring Boot, focusing on:
+
+RESTful API development
+
+Database integration and transaction management
+
+Backend architecture and best practices
+
+Alongside backend development, I also build frontend interfaces using React.js and Tailwind CSS to deliver complete, user-friendly applications.
