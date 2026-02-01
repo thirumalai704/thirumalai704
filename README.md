@@ -32,6 +32,7 @@ public class DeveloperProfile {
         "Git"
     };
 }
+```
 Currently, I am working with Spring Framework and Spring Boot, focusing on:
 
 RESTful API development
